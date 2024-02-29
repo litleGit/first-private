@@ -1,0 +1,128 @@
+{
+  "id": "4415846",
+  "name": "后台管理",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1137788",
+      "name": "系统",
+      "font_class": "xitong",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "1346364",
+      "name": "yly_计算器",
+      "font_class": "yly_jisuanqi",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "3406369",
+      "name": "锁屏",
+      "font_class": "suoping",
+      "unicode": "e785",
+      "unicode_decimal": 59269
+    },
+    {
+      "icon_id": "4880014",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "5387383",
+      "name": "电脑",
+      "font_class": "diannao",
+      "unicode": "eac0",
+      "unicode_decimal": 60096
+    },
+    {
+      "icon_id": "5387521",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "eaf1",
+      "unicode_decimal": 60145
+    },
+    {
+      "icon_id": "7463951",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "7499628",
+      "name": "营销管理",
+      "font_class": "yingxiaoguanli",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "8554985",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "11891864",
+      "name": "compass",
+      "font_class": "compass",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "12911870",
+      "name": "审批",
+      "font_class": "shenpi",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "15726936",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "16921552",
+      "name": "日程",
+      "font_class": "richeng",
+      "unicode": "e7e9",
+      "unicode_decimal": 59369
+    },
+    {
+      "icon_id": "17990801",
+      "name": "客户",
+      "font_class": "kehu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "21911038",
+      "name": "事项",
+      "font_class": "shixiang",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "22959343",
+      "name": "发起工单",
+      "font_class": "faqigongdan",
+      "unicode": "e80b",
+      "unicode_decimal": 59403
+    },
+    {
+      "icon_id": "37969260",
+      "name": "办公申请",
+      "font_class": "bangongshenqing",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
